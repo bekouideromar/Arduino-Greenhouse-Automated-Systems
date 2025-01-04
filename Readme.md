@@ -45,7 +45,7 @@ The system also provides real-time feedback on temperature, humidity, and moistu
 ## Circuit Connections Design:
 
 ![Circuit Design](circuit.png)
-![Arduino Code](arduino-code.ino)
+
 Below is a description of how the various components are connected to the **Arduino UNO**:
 
 1. **DHT11 Sensor**:
@@ -81,7 +81,11 @@ Below is a description of how the various components are connected to the **Ardu
    - **RW** to GND.
 
 ---
+---
+## Arduino Code
 
+The Arduino code for this project can be found in the [arduino.ino](./arduino.ino) file.
+---
 ## Future Improvements:
 
 1. **Remote Monitoring**: Add Wi-Fi or Bluetooth functionality for remote monitoring and control of the greenhouse.
