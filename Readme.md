@@ -1,7 +1,7 @@
 # Arduino Greenhouse Automation System
 
 This project is available at: [Arduino ProjectHub](https://projecthub.arduino.cc/djomaro/greenhouse-automation-63a3ac)
-
+![Project Preview](preview.png)
 ---
 
 ## Requirements:
@@ -44,6 +44,8 @@ The system also provides real-time feedback on temperature, humidity, and moistu
 
 ## Circuit Connections Design:
 
+![Circuit Design](circuit.png)
+![Arduino Code](arduino-code.ino)
 Below is a description of how the various components are connected to the **Arduino UNO**:
 
 1. **DHT11 Sensor**:
