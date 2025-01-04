@@ -84,7 +84,7 @@ Below is a description of how the various components are connected to the **Ardu
 ---
 ## Arduino Code
 
-The Arduino code for this project can be found in the [arduino.ino](arduino.ino) file.
+The Arduino code for this project can be found in the [arduino.ino](./arduino-code.ino) file.
 ---
 ## Future Improvements:
 
